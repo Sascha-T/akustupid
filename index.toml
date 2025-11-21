@@ -818,6 +818,10 @@ file = "mods/utilities/chunky.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/utilities/fsmp-bridge.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/utilities/spark.pw.toml"
 metafile = true
 
@@ -888,9 +892,6 @@ metafile = true
 [[files]]
 file = "mods/worldgen/yungs/yungs-extras.pw.toml"
 metafile = true
-
-[[files]]
-file = "unsup.ini"
 
 [[files]]
 file = "unsup.toml"
