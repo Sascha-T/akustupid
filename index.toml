@@ -132,10 +132,6 @@ file = "mods/content/create/blocks-bogies.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/create/copycats.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/create/create-aquatic-ambitions.pw.toml"
 metafile = true
 
