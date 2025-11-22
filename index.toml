@@ -49,6 +49,9 @@ file = "config/figura.json"
 file = "config/mimi-common.toml"
 
 [[files]]
+file = "config/minecolonies-server.toml"
+
+[[files]]
 file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
 metafile = true
 
@@ -185,6 +188,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-trading-floor.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-train-parts.pw.toml"
 metafile = true
 
 [[files]]
@@ -429,6 +436,10 @@ metafile = true
 
 [[files]]
 file = "mods/performance/c2me-neoforge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/performance/create-threaded-trains.pw.toml"
 metafile = true
 
 [[files]]
