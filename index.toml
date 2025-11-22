@@ -144,10 +144,6 @@ file = "mods/content/create/create-central-kitchen.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/create/create-deepfried.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/create/create-dragons-plus.pw.toml"
 metafile = true
 
