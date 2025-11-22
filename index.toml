@@ -13,6 +13,9 @@ file = "config/aileron.json"
 file = "config/craftpresence.json"
 
 [[files]]
+file = "config/crawl.properties"
+
+[[files]]
 file = "config/create-server.toml"
 
 [[files]]
@@ -236,6 +239,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/create-train-parts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-vibrant-vaults.pw.toml"
 metafile = true
 
 [[files]]
