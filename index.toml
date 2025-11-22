@@ -146,6 +146,10 @@ file = "mods/content/build-deco/shutters.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/build-deco/snowy-spirit.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/computer-craft/advancedperipherals.pw.toml"
 metafile = true
 
@@ -202,6 +206,10 @@ file = "mods/content/create/create-enchantment-industry.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-food.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-integrated-farming.pw.toml"
 metafile = true
 
@@ -254,6 +262,10 @@ file = "mods/content/create/hypertube.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/slice-and-dice.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/exposure/exposure-catalog.pw.toml"
 metafile = true
 
@@ -271,6 +283,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/exposure/exposure.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/farmers-delight/dungeons_delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -622,10 +638,6 @@ file = "mods/testing/content/farmers-delight/dumplings-delight-rewrapped.pw.toml
 metafile = true
 
 [[files]]
-file = "mods/testing/content/farmers-delight/dungeons_delight.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/content/farmers-delight/easters-delight.pw.toml"
 metafile = true
 
@@ -643,14 +655,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/content/farmers-delight/expanded-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/fastfood-delight-unofficial.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/frights-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -791,10 +795,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/content/other/fire-extinguisher.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/tweaks/cerbons-better-beacons.pw.toml"
 metafile = true
 
 [[files]]
