@@ -192,10 +192,6 @@ file = "mods/content/create/create.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/create/gears-n-kinetics.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/create/hypertube.pw.toml"
 metafile = true
 
