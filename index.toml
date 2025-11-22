@@ -4,10 +4,22 @@ hash-format = "sha256"
 file = "LICENSE"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+
+[[files]]
 file = "config/aileron.json"
 
 [[files]]
 file = "config/craftpresence.json"
+
+[[files]]
+file = "config/create-server.toml"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
 
 [[files]]
 file = "config/desiredservers/desiredservers.json"
@@ -17,6 +29,9 @@ file = "config/do_a_barrel_roll-server.json"
 
 [[files]]
 file = "config/emojiful-client.toml"
+
+[[files]]
+file = "config/expanded_ecosphere/config.json5"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -52,8 +67,37 @@ file = "config/mimi-common.toml"
 file = "config/minecolonies-server.toml"
 
 [[files]]
+file = "config/paxi/datapacks/fsmp-datapack.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/create-lootr.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
 metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fsmp-resourcepack.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/refined-cats.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/transparency-world-border.pw.toml"
+metafile = true
+
+[[files]]
+file = "config/sodium-extra-options.json"
+
+[[files]]
+file = "config/solstice/config.conf"
+
+[[files]]
+file = "config/supplementaries-common.toml"
 
 [[files]]
 file = "config/tectonic.json"
