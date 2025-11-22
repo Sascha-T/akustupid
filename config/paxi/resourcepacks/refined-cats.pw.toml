@@ -1,13 +1,13 @@
 name = "Refined Cats: Detailed"
-filename = "RefinedCatsDetailed_v2.1.8.zip"
+filename = "RefinedCats_v3.0.3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XzvZ8pqC/versions/UBTuC30G/RefinedCatsDetailed_v2.1.8.zip"
+url = "https://cdn.modrinth.com/data/XzvZ8pqC/versions/2S0G3CCX/RefinedCats_v3.0.3.zip"
 hash-format = "sha512"
-hash = "8aa8989cb9c7455a5058adb309518738877b00d077df037f740e6122bab4ffe86b96b58eeb3b8c8c3a01e2a12c14f056a5528fdd487b059ffb1e1374596469d5"
+hash = "b0f5b2dc9fb7a5037c08c03decccfd015324aa76c84e5285d1abbc8875e74c47d0fdaa1eea21814620c4e5096ba46413ca7296d0f475d478f3d3586d9ef94ce1"
 
 [update]
 [update.modrinth]
 mod-id = "XzvZ8pqC"
-version = "UBTuC30G"
+version = "2S0G3CCX"
