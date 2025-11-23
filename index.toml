@@ -186,6 +186,10 @@ file = "mods/content/create/blocks-bogies.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/copycats.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-aquatic-ambitions.pw.toml"
 metafile = true
 
@@ -514,10 +518,6 @@ file = "mods/performance/createbetterfps.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/performance/entityculling.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/performance/ferrite-core.pw.toml"
 metafile = true
 
@@ -703,10 +703,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/content/farmers-delight/pineapple-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/pizza-delight.pw.toml"
 metafile = true
 
 [[files]]
