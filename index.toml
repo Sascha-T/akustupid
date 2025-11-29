@@ -194,7 +194,15 @@ file = "mods/content/create/create-aquatic-ambitions.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-bitterballen.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/create-central-kitchen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-deepfried.pw.toml"
 metafile = true
 
 [[files]]
@@ -790,6 +798,10 @@ file = "mods/testing/content/other/fire-extinguisher.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/content/other/small-ships.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/tweaks/plane-advancements.pw.toml"
 metafile = true
 
@@ -819,6 +831,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/worldgen/mss-moogs-soaring-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/worldgen/roadarchitect.pw.toml"
 metafile = true
 
 [[files]]
