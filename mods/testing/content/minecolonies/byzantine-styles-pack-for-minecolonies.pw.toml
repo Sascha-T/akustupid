@@ -1,13 +1,13 @@
 name = "Byzantine Styles Pack for Minecolonies"
-filename = "Byzantine-1.21.1-43.jar"
+filename = "Byzantine-1.21.1-44.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "329bb08943d038e2475c3c0e3173134bb6c51830"
+hash = "c19c71e5b5d8f78775b050ac2c79b7e403d6a8c2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7229452
+file-id = 7273326
 project-id = 974855
