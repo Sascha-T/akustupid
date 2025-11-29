@@ -1,13 +1,13 @@
 name = "Cutting Delight"
-filename = "cuttingdelight-1.0.0-beta.2.jar"
+filename = "cuttingdelight-1.0.0-beta.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5oqQBDcS/versions/bOJw7NH9/cuttingdelight-1.0.0-beta.2.jar"
+url = "https://cdn.modrinth.com/data/5oqQBDcS/versions/WZKYUJZt/cuttingdelight-1.0.0-beta.3.jar"
 hash-format = "sha512"
-hash = "7fbbaeb069cac2b6a5b94668b8668d80d293d86d6de7ba929ef156acd7e7c00d6ef54655f35e12f7695cdd2f608cf1481621602ca4b87ecab5cac9a082ea554f"
+hash = "4a824b395b071ffd32985f524accd1da52c40e9a266d6390db4fae95baf104b2580b0a3b96f9154cd4a2488a3b05a11db39f7b1af5129d0861e279febdd01e03"
 
 [update]
 [update.modrinth]
 mod-id = "5oqQBDcS"
-version = "bOJw7NH9"
+version = "WZKYUJZt"
