@@ -1,13 +1,13 @@
 name = "AdoraBuild: Structures"
-filename = "adorabuild-structures-2.10.1-neoforge-1.21.3.jar"
+filename = "adorabuild-structures-2.11.0-neoforge-1.21.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rYlnn25U/versions/9B5xYkkN/adorabuild-structures-2.10.1-neoforge-1.21.3.jar"
+url = "https://cdn.modrinth.com/data/rYlnn25U/versions/l7GS6bZj/adorabuild-structures-2.11.0-neoforge-1.21.3.jar"
 hash-format = "sha512"
-hash = "14f688ec569764535e367cbafbadee86e4072d4a937602569ffc613c612ddfc958151d8e04cee6e852a0b950b68041f4cdcd7c15247e3cd6e1ac8c5a48b8ee3d"
+hash = "9e7e3f65dce3cf9216939bd81ca44412ddb7992ddfda33b8fdc444eda6c0b86b2072d5fc93c26ac399e961a15d07b35d290214b92abcda7721676c4cb87e5864"
 
 [update]
 [update.modrinth]
 mod-id = "rYlnn25U"
-version = "9B5xYkkN"
+version = "l7GS6bZj"
