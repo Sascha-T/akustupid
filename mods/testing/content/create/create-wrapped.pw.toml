@@ -1,0 +1,13 @@
+name = "Create: Wrapped"
+filename = "create_wrapped-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/93UfVKfq/versions/lJdDLNuu/create_wrapped-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "8d5160697b5c2bd5eb6db6363b0942991203a95a726acc585082e2d389b2902cfc97227a1b7496812427a23983d9aee5224f6e78a4fd5e0862fc42f5e6ad2138"
+
+[update]
+[update.modrinth]
+mod-id = "93UfVKfq"
+version = "lJdDLNuu"
