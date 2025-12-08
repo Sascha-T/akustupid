@@ -582,6 +582,14 @@ file = "mods/performance/sodium/sodium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/content/create/create-dynamic-lights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/create/create-train-lights.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/content/farmers-delight/aquaculture-delight.pw.toml"
 metafile = true
 
