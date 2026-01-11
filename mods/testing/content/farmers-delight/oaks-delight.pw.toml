@@ -1,13 +1,13 @@
 name = "Oaks Delight"
-filename = "oaksdelight-1.0.7a-neoforge-1.21.1.jar"
+filename = "oaksdelight-1.0.8-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aWAAHxYu/versions/kYoVvhpA/oaksdelight-1.0.7a-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/aWAAHxYu/versions/TbHG2Htd/oaksdelight-1.0.8-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "e6ed950e0b9a2f02e3cde27d1c8d331d3b3a97598ac5a54cd1879cb59ded58d6a3116cac076f3ceab4cb219cb6b92e9d9314e7e747c28cc124c5e72b7403de5b"
+hash = "4f999118a04f37c8cc4f1fb0125faf6fea1dc670698386241b7d841fb24dbd64dd79f43c6c484bb2ef5f91f918c1b449d60e5c8d4b5068389937b352337045c7"
 
 [update]
 [update.modrinth]
 mod-id = "aWAAHxYu"
-version = "kYoVvhpA"
+version = "TbHG2Htd"
