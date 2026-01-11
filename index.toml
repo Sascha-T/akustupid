@@ -118,6 +118,18 @@ file = "config/xaerominimap.txt"
 file = "config/xaeroworldmap-common.txt"
 
 [[files]]
+file = "mods/content/applied-energistics/ae2-crafting-tree.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/ae2-import-export-card.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/applied-energistics/ae2-network-analyser.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
 metafile = true
 
@@ -438,7 +450,15 @@ file = "mods/libraries/geckolib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/glodium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/guideme.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libraries/jamlib.pw.toml"
 metafile = true
 
 [[files]]
@@ -582,7 +602,15 @@ file = "mods/performance/sodium/sodium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/content/create/create-bits-n-bobs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/content/create/create-dynamic-lights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/create/create-old-infrastructure.pw.toml"
 metafile = true
 
 [[files]]
@@ -806,6 +834,10 @@ file = "mods/testing/content/minecolonies/stylecolonies.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/content/other/chimes.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/content/other/fire-extinguisher.pw.toml"
 metafile = true
 
@@ -931,6 +963,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/polymorph.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/gameplay/rightclickharvest.pw.toml"
 metafile = true
 
 [[files]]
