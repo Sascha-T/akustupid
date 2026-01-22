@@ -1,13 +1,13 @@
 name = "RunicLib"
-filename = "neoforge-runiclib-1.21.1-5.0.2.jar"
+filename = "neoforge-runiclib-1.21.1-5.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mk0Htq87/versions/6frOKrgD/neoforge-runiclib-1.21.1-5.0.2.jar"
+url = "https://cdn.modrinth.com/data/mk0Htq87/versions/GyuCX714/neoforge-runiclib-1.21.1-5.0.3.jar"
 hash-format = "sha512"
-hash = "b1c33cb57aab5baf37dc1f3c1a854b144d79fcee125c60d634d6114dc383e41cf9377533378fabf5787e5d6052a577a36bb5f281d741aac91b814cbf0d7de01e"
+hash = "7337260b44308fe5f662034e69910fc80347b3310ec0260666c51e894817d2f11650d0a2f69709ebc9f9dd529b2f73c62bed22bf7564e9a4fa7545397e1e2b87"
 
 [update]
 [update.modrinth]
 mod-id = "mk0Htq87"
-version = "6frOKrgD"
+version = "GyuCX714"

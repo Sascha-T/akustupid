@@ -534,6 +534,10 @@ file = "mods/performance/async-locator-refined.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/performance/c2me-neoforge.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/performance/create-threaded-trains.pw.toml"
 metafile = true
 
