@@ -1,13 +1,13 @@
 name = "Arbitrary Delight"
-filename = "ArbitraryDelight-v0.9.1-NeoForge-1.21.1.jar"
+filename = "ArbitraryDelight-v1.1.0-NeoForge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RsYxYDmn/versions/esDpRl4A/ArbitraryDelight-v0.9.1-NeoForge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/RsYxYDmn/versions/m8DXLNNV/ArbitraryDelight-v1.1.0-NeoForge-1.21.1.jar"
 hash-format = "sha512"
-hash = "df5fb9cee719aacebbb0a71e8bdfcba9cfaea52ca6dac690f04c14e171903e14b87cef19616f6ebd85226e57a18a743cf98c93745acbd71b6c6e5c96961d7f19"
+hash = "54c2b20d08e36f61a0b6efb85e35d7a767bc9dae7634ddf17d7a726cf4b4c48aedb3f82c05c5f3903516f44956c575b66aaaff6b6be99c588a882a901c144267"
 
 [update]
 [update.modrinth]
 mod-id = "RsYxYDmn"
-version = "esDpRl4A"
+version = "m8DXLNNV"
