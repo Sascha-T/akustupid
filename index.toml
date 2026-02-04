@@ -210,6 +210,14 @@ file = "mods/content/create/create-sound-of-steam.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/create/create-train-physics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/exposure/exposure-catalog.pw.toml"
 metafile = true
 
@@ -610,19 +618,11 @@ file = "mods/testing/content/create/create-train-parts.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/content/create/create-train-physics.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/content/create/create-vibrant-vaults.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/testing/content/create/create-wrapped.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create.pw.toml"
 metafile = true
 
 [[files]]
