@@ -1,5 +1,6 @@
+# Map
 [flavor_groups.map]
-name = "Map mod"
+name = "Map"
 side = "client"
 choices = [
   { id = "map_xaero", name = "Xaero" },
@@ -15,6 +16,7 @@ flavors = "map_journey"
 [metafile.journeymap]
 flavors = "map_journey"
 
+# Distant horizons
 [flavor_groups.dh]
 name = "Distant Horizons"
 side = "client"
@@ -26,19 +28,37 @@ flavors = "dh_on"
 [flavor_groups.iris]
 name = "Iris"
 side = "client"
-choices = ["iris_on", "iris_off"]
+choices = [
+  { id = "iris_shaders", name = "Iris & Shaders" },
+  { id = "iris_on", name = "Iris only" },
+  { id = "iris_off", name = "None" },
+]
 
+# Iris
 [metafile.colorwheel]
 flavors = "iris_on"
 [metafile.colorwheel-patcher]
 flavors = "iris_on"
-[metafile.complementary-reimagined]
-flavors = "iris_on"
-[metafile.complementary-unbound]
-flavors = "iris_on"
 [metafile.iris]
 flavors = "iris_on"
 
+# Shaders
+[metafile.bliss-shader]
+flavors = "iris_shaders"
+[metafile.bsl-shaders]
+flavors = "iris_shaders"
+[metafile.complementary-reimagined]
+flavors = "iris_shaders"
+[metafile.complementary-unbound]
+flavors = "iris_shaders"
+[metafile.insanity-shader]
+flavors = "iris_shaders"
+[metafile.nostalgia-shader]
+flavors = "iris_shaders"
+[metafile.solas-shader]
+flavors = "iris_shaders"
+
+# Particular
 [flavor_groups.particular]
 name = "Particular"
 side = "client"
@@ -47,6 +67,7 @@ choices = ["particular_on", "particular_off"]
 [metafile.particular-reforged]
 flavors = "particular_on"
 
+# Visuality
 [flavor_groups.visuality]
 name = "Visuality"
 side = "client"
@@ -55,6 +76,7 @@ choices = ["visuality_on", "visuality_off"]
 [metafile.visuality-forge]
 flavors = "visuality_on"
 
+# Dynlights
 [flavor_groups.dynamic]
 name = "Dynamic Lights"
 side = "client"

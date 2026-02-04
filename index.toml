@@ -250,6 +250,10 @@ file = "mods/content/farmers-delight/farmers-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/farmers-delight/rustic-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/farmers-delight/some-assembly-required.pw.toml"
 metafile = true
 
@@ -766,10 +770,6 @@ file = "mods/testing/content/farmers-delight/potted-delight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/content/farmers-delight/rustic-delight.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/content/farmers-delight/seed-delight.pw.toml"
 metafile = true
 
@@ -1270,11 +1270,35 @@ file = "mods/worldgen/yungs/yungs-extras.pw.toml"
 metafile = true
 
 [[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/insanity-shader.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/nostalgia-shader.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
 metafile = true
 
 [[files]]
