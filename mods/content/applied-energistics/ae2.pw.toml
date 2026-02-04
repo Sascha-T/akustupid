@@ -1,13 +1,8 @@
 name = "Applied Energistics 2"
-filename = "appliedenergistics2-19.2.17.jar"
+filename = "appliedenergistics2-19.2.17-carpfix-1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/kfyIqgJ6/appliedenergistics2-19.2.17.jar"
-hash-format = "sha512"
-hash = "55edfd948366aff620881e0625e48c333a2cb847e73249bc0b588efbc4b86709992a8ffbca97ea387e270df4186fe7f74ee2f27b739f1c952e932becfb9dea33"
-
-[update]
-[update.modrinth]
-mod-id = "XxWD5pD3"
-version = "kfyIqgJ6"
+url = "https://pwcdn.carp.gg/appliedenergistics2-19.2.17-carpfix-1.jar"
+hash-format = "sha256"
+hash = "d0bd2edeedde71367c421d58fb10395c099521ae8f88b08ca3376de69c0fddb1"

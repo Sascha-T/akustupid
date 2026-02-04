@@ -150,6 +150,10 @@ file = "mods/content/applied-energistics/schematic-energistics.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/build-deco/handcrafted.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/build-deco/nightlights.pw.toml"
 metafile = true
 
