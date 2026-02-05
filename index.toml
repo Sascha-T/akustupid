@@ -118,35 +118,7 @@ file = "config/xaerominimap.txt"
 file = "config/xaeroworldmap-common.txt"
 
 [[files]]
-file = "mods/content/applied-energistics/ae2-crafting-tree.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/applied-energistics/ae2-import-export-card.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/applied-energistics/ae2-network-analyser.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/applied-energistics/ae2-qol-recipes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/applied-energistics/ae2.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/applied-energistics/applied-energistics-2-wireless-terminals.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/applied-energistics/polymorphic-energistics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/applied-energistics/schematic-energistics.pw.toml"
 metafile = true
 
 [[files]]
@@ -163,34 +135,6 @@ metafile = true
 
 [[files]]
 file = "mods/content/build-deco/snowy-spirit.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/computer-craft/advancedperipherals.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/computer-craft/cc-tweaked.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/computer-craft/cccbridge.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/computer-craft/ccsecureboot.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/computer-craft/classicperipherals.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/computer-craft/create-cc-total-logistics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/content/computer-craft/toms-peripherals.pw.toml"
 metafile = true
 
 [[files]]
@@ -554,6 +498,62 @@ file = "mods/performance/sodium/sodium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/content/applied-energistics/ae2-crafting-tree.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/applied-energistics/ae2-import-export-card.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/applied-energistics/ae2-network-analyser.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/applied-energistics/ae2-qol-recipes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/applied-energistics/applied-energistics-2-wireless-terminals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/applied-energistics/polymorphic-energistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/applied-energistics/schematic-energistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/computer-craft/advancedperipherals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/computer-craft/cc-tweaked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/computer-craft/cccbridge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/computer-craft/ccsecureboot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/computer-craft/classicperipherals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/computer-craft/create-cc-total-logistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/computer-craft/toms-peripherals.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/content/create/create-aquatic-ambitions.pw.toml"
 metafile = true
 
@@ -818,11 +818,11 @@ file = "mods/testing/content/immersive-aircraft/man-of-many-planes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/content/other/fire-extinguisher.pw.toml"
+file = "mods/testing/content/other/small-ships.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/content/other/small-ships.pw.toml"
+file = "mods/testing/tweaks/audio/dynamicsurroundingsfabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -831,6 +831,14 @@ metafile = true
 
 [[files]]
 file = "mods/testing/tweaks/cerbons-better-beacons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/tweaks/gameplay/aileron.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/tweaks/gameplay/do-a-barrel-roll.pw.toml"
 metafile = true
 
 [[files]]
@@ -866,10 +874,6 @@ file = "mods/tweaks/audio/cool-rain-reforged.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/audio/dynamicsurroundingsfabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tweaks/audio/simple-voice-chat.pw.toml"
 metafile = true
 
@@ -878,7 +882,15 @@ file = "mods/tweaks/audio/sound.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/gameplay/aileron.pw.toml"
+file = "mods/tweaks/fixes/netherportalfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/fixes/no-chat-reports.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/fixes/no-telemetry.pw.toml"
 metafile = true
 
 [[files]]
@@ -895,10 +907,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/crawl.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/gameplay/do-a-barrel-roll.pw.toml"
 metafile = true
 
 [[files]]
@@ -923,18 +931,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/monsters-in-the-closet.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/gameplay/netherportalfix.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/gameplay/no-chat-reports.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/gameplay/no-telemetry.pw.toml"
 metafile = true
 
 [[files]]
