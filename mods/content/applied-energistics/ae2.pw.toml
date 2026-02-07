@@ -1,8 +1,0 @@
-name = "Applied Energistics 2"
-filename = "appliedenergistics2-19.2.17-carpfix-1.jar"
-side = "both"
-
-[download]
-url = "https://pwcdn.carp.gg/appliedenergistics2-19.2.17-carpfix-1.jar"
-hash-format = "sha256"
-hash = "d0bd2edeedde71367c421d58fb10395c099521ae8f88b08ca3376de69c0fddb1"

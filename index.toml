@@ -118,10 +118,6 @@ file = "config/xaerominimap.txt"
 file = "config/xaeroworldmap-common.txt"
 
 [[files]]
-file = "mods/content/applied-energistics/ae2.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/build-deco/handcrafted.pw.toml"
 metafile = true
 
@@ -268,6 +264,9 @@ metafile = true
 [[files]]
 file = "mods/content/other/straw-statues.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/content/other/tl2.toml"
 
 [[files]]
 file = "mods/content/supplementaries/amendments.pw.toml"
@@ -495,34 +494,6 @@ metafile = true
 
 [[files]]
 file = "mods/performance/sodium/sodium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/applied-energistics/ae2-crafting-tree.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/applied-energistics/ae2-import-export-card.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/applied-energistics/ae2-network-analyser.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/applied-energistics/ae2-qol-recipes.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/applied-energistics/applied-energistics-2-wireless-terminals.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/applied-energistics/polymorphic-energistics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/applied-energistics/schematic-energistics.pw.toml"
 metafile = true
 
 [[files]]
