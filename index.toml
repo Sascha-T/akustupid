@@ -589,10 +589,6 @@ file = "mods/testing/content/create/create-power-loader.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/content/create/create-stock-bridge.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/content/create/create-trading-floor.pw.toml"
 metafile = true
 
