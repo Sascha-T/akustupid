@@ -266,7 +266,8 @@ file = "mods/content/other/straw-statues.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/other/tl2.toml"
+file = "mods/content/other/tl2.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/content/supplementaries/amendments.pw.toml"
