@@ -1,8 +1,8 @@
 name = "Theoretical Lethargics 2"
-filename = "theoreticallethargics2-19.2.18-alpha.52+1.21.1.jar"
+filename = "theoreticallethargics2-19.2.18-alpha.57+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://pwcdn.carp.gg/theoreticallethargics2-19.2.18-alpha.52+1.21.1.jar"
+url = "https://pwcdn.carp.gg/theoreticallethargics2-19.2.18-alpha.57+1.21.1.jar"
 hash-format = "sha256"
-hash = "16a8bd68ad0dcd284f6d34a10223697adf46d1da06d4e275f188a9d78d42eea0"
+hash = "b61049f56aa89303930168192b832e202eb8d89be83eb878c0be7aba2034873b"
