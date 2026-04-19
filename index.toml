@@ -134,6 +134,10 @@ file = "mods/content/build-deco/snowy-spirit.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/content/computer-craft/cc-tweaked.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/create/bellsandwhistles.pw.toml"
 metafile = true
 
@@ -406,6 +410,10 @@ file = "mods/libraries/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/runiclib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/searchables.pw.toml"
 metafile = true
 
@@ -506,10 +514,6 @@ file = "mods/testing/content/computer-craft/advancedperipherals.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/content/computer-craft/cc-tweaked.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/content/computer-craft/cccbridge.pw.toml"
 metafile = true
 
@@ -546,10 +550,6 @@ file = "mods/testing/content/create/create-bitterballen.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/content/create/create-buzzy-bees.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/content/create/create-central-kitchen.pw.toml"
 metafile = true
 
@@ -575,10 +575,6 @@ metafile = true
 
 [[files]]
 file = "mods/testing/content/create/create-food.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-integrated-farming.pw.toml"
 metafile = true
 
 [[files]]
@@ -626,7 +622,7 @@ file = "mods/testing/content/create/create-wrapped.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/content/create/hypertube.pw.toml"
+file = "mods/testing/content/create/libraries/sable.pw.toml"
 metafile = true
 
 [[files]]
@@ -734,10 +730,6 @@ file = "mods/testing/content/farmers-delight/libraries/recipe-modification.pw.to
 metafile = true
 
 [[files]]
-file = "mods/testing/content/farmers-delight/libraries/runiclib.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/content/farmers-delight/miners-delight.pw.toml"
 metafile = true
 
@@ -794,31 +786,27 @@ file = "mods/testing/content/serene-shrubbery.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/sable.pw.toml"
+file = "mods/testing/content/tweaks/audio/dynamicsurroundingsfabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/tweaks/audio/dynamicsurroundingsfabric.pw.toml"
+file = "mods/testing/content/tweaks/cat-loaf.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/tweaks/cat-loaf.pw.toml"
+file = "mods/testing/content/tweaks/cerbons-better-beacons.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/tweaks/cerbons-better-beacons.pw.toml"
+file = "mods/testing/content/tweaks/gameplay/aileron.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/tweaks/gameplay/aileron.pw.toml"
+file = "mods/testing/content/tweaks/gameplay/do-a-barrel-roll.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/tweaks/gameplay/do-a-barrel-roll.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/tweaks/plane-advancements.pw.toml"
+file = "mods/testing/content/tweaks/plane-advancements.pw.toml"
 metafile = true
 
 [[files]]

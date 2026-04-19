@@ -1,13 +1,13 @@
 name = "Countries Delight"
-filename = "countriesdelight-1.0.6-usa-christmas.jar"
+filename = "countriesdelight-1.0.7-korea-lunar.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mJ319DMC/versions/5KenE9JY/countriesdelight-1.0.6-usa-christmas.jar"
+url = "https://cdn.modrinth.com/data/mJ319DMC/versions/pK5y76Qg/countriesdelight-1.0.7-korea-lunar.jar"
 hash-format = "sha512"
-hash = "62b00f520d2b5b5ce84299b42a7b305cbae18724593e4c3c9484ae3ed26a2b083a0b6a85258c18dc6938c8a476fd7861a52c5a2a4f9f1169eb7ebdb4aa58291e"
+hash = "2c98d2488e9f2238486a316f94c617414812abfb483012e7c0ef95332b741bdc8d1142e6318d00a56ec78d71f0b283d0f7caf9325eea7dd08a109ae88c2916da"
 
 [update]
 [update.modrinth]
 mod-id = "mJ319DMC"
-version = "5KenE9JY"
+version = "pK5y76Qg"
