@@ -786,10 +786,6 @@ file = "mods/testing/content/farmers-delight/veggies-delight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/content/other/small-ships.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/content/serene-shrubbery.pw.toml"
 metafile = true
 
