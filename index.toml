@@ -542,6 +542,10 @@ file = "mods/testing/content/create/create-bitterballen.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/content/create/create-buzzy-bees.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/content/create/create-central-kitchen.pw.toml"
 metafile = true
 
@@ -603,6 +607,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/content/create/create-train-parts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/create/create-transmission!.pw.toml"
 metafile = true
 
 [[files]]
@@ -791,6 +799,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/content/other/small-ships.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/serene-shrubbery.pw.toml"
 metafile = true
 
 [[files]]
