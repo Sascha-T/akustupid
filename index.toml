@@ -786,18 +786,6 @@ file = "mods/testing/content/farmers-delight/veggies-delight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/content/immersive-aircraft/create-man-of-many-planes.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/immersive-aircraft/immersive-aircraft.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/immersive-aircraft/man-of-many-planes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/content/other/small-ships.pw.toml"
 metafile = true
 
