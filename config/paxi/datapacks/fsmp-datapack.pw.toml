@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://github.com/Atakku/fsmp-datares/releases/download/mc1.21.1/v0.5.7/fsmp-datapack-0.5.7.zip"
 hash-format = "sha256"
-hash = "ea87371116284a9b8e6a2d20143846506c4bf5a901d94937b103922f4b495314"
+hash = "d6852f68da0feeede0dac163db00e5adacc9efc631bc8294acf51cd49e9bd067"
 
 [update]
 [update.github]
