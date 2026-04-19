@@ -530,6 +530,10 @@ file = "mods/testing/content/create/create-aquatic-ambitions.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/content/create/create-big-cannons.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/content/create/create-bits-n-bobs.pw.toml"
 metafile = true
 
@@ -607,6 +611,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/content/create/create-wrapped.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/create/libraries/rpl.pw.toml"
 metafile = true
 
 [[files]]
