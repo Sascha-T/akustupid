@@ -526,6 +526,10 @@ file = "mods/testing/content/computer-craft/toms-peripherals.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/content/create/create-aeronautics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/content/create/create-aquatic-ambitions.pw.toml"
 metafile = true
 
@@ -787,6 +791,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/content/other/small-ships.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/sable.pw.toml"
 metafile = true
 
 [[files]]
