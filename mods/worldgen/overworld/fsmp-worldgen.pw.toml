@@ -5,7 +5,7 @@ side = "server"
 [download]
 url = "https://github.com/Atakku/fsmp-worldgen/releases/download/mc1.21.1/v0.8.8/fsmp-worldgen-0.8.8%2B1.21.1-server.jar"
 hash-format = "sha256"
-hash = "9516914799aae222e63737095621d5a9d86e9a56cdfea0363cb1e0c80381df8e"
+hash = "570a2a071cb6d4dbde1ce566b81ae41c6d33fdbd1a6afde49b869822a7a321bb"
 
 [update]
 [update.github]
