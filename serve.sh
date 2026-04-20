@@ -10,6 +10,7 @@ cp -r .packwizignore .build/
 cd .build/
 # The cost of organizing mods
 find mods/ -type f -print0 | xargs -0 mv -t mods/
+find testing/ -type f -print0 | xargs -0 mv -t mods/
 packwiz refresh --build
 packwiz serve --basic
 )
