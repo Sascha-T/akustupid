@@ -118,6 +118,10 @@ file = "config/xaerominimap.txt"
 file = "config/xaeroworldmap-common.txt"
 
 [[files]]
+file = "mods/bluemapfrontiers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/build-deco/handcrafted.pw.toml"
 metafile = true
 
@@ -147,6 +151,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/copycats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-molten-vents.pw.toml"
 metafile = true
 
 [[files]]
@@ -522,6 +530,14 @@ file = "mods/testing/content/computer-craft/toms-peripherals.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/content/create/create-access-denied.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/create/create-additional-logistics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/content/create/create-aeronautics.pw.toml"
 metafile = true
 
@@ -543,6 +559,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/content/create/create-central-kitchen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/create/create-deco.pw.toml"
 metafile = true
 
 [[files]]
@@ -587,6 +607,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/content/create/create-power-loader.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/create/create-ratatouille.pw.toml"
 metafile = true
 
 [[files]]
@@ -775,6 +799,22 @@ metafile = true
 
 [[files]]
 file = "mods/testing/content/farmers-delight/veggies-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/map/bluemap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/map/create-bluemap.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/map/libraries/forge-config-api-port.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/content/map/mapfrontiers.pw.toml"
 metafile = true
 
 [[files]]
