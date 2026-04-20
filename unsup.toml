@@ -1,21 +1,3 @@
-# Map
-[flavor_groups.map]
-name = "Map"
-side = "client"
-choices = [
-  { id = "map_xaero", name = "Xaero" },
-  { id = "map_journey", name = "Journey" },
-]
-
-[metafile.xaeros-minimap]
-flavors = "map_xaero"
-[metafile.xaeros-world-map]
-flavors = "map_xaero"
-[metafile.journeylocator]
-flavors = "map_journey"
-[metafile.journeymap]
-flavors = "map_journey"
-
 # Distant horizons
 [flavor_groups.dh]
 name = "Distant Horizons"

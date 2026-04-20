@@ -338,6 +338,10 @@ file = "mods/libraries/entitytexturefeatures.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libraries/forge-config-api-port.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/forgified-fabric-api.pw.toml"
 metafile = true
 
@@ -499,374 +503,6 @@ metafile = true
 
 [[files]]
 file = "mods/performance/sodium/sodium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/computer-craft/advancedperipherals.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/computer-craft/cccbridge.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/computer-craft/ccsecureboot.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/computer-craft/classicperipherals.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/computer-craft/create-cc-total-logistics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/computer-craft/toms-peripherals.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-access-denied.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-additional-logistics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-aeronautics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-aquatic-ambitions.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-big-cannons.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-bits-n-bobs.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-bitterballen.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-central-kitchen.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-deco.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-deepfried.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-dragons-plus.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-dynamic-lights.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-enchantable-machinery.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-enchantment-industry.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-food.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-meta-logistics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-more-pipe-bombs-in-packages.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-old-infrastructure.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-pattern-schematics.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-power-loader.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-trading-floor.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-train-lights.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-train-parts.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-transmission!.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-vibrant-vaults.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/create-wrapped.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/libraries/rpl.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/libraries/sable.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/create/slice-and-dice.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/aquaculture-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/arbitrary-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/barbeques-delight-forge.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/brewin-and-chewin.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/cocktails-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/compat-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/corn-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/countries-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/crabbers-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/crate-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/cultural-delights.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/cutting-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/display-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/dumplings-delight-rewrapped.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/easters-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/egg-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/enders-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/ends-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/expanded-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/fruits-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/hearth-and-harvest.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/libraries/lodestonelib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/libraries/mmlib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/libraries/not-enough-pots.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/libraries/recipe-modification.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/miners-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/more-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/oaks-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/oceans-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/pineapple-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/pizzadelight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/potted-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/seed-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/trailtales-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/ubes-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/valheim-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/vegan-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/farmers-delight/veggies-delight.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/map/bluemap.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/map/bluemapfrontiers.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/map/create-bluemap.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/map/libraries/forge-config-api-port.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/map/mapfrontiers.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/content/serene-shrubbery.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/tweaks/audio/dynamicsurroundingsfabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/tweaks/cat-loaf.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/tweaks/cerbons-better-beacons.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/tweaks/gameplay/aileron.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/tweaks/gameplay/do-a-barrel-roll.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/tweaks/libraries/cerbons-api.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/utilities/touys.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/worldgen/adorabuild-structures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/worldgen/better-village.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/worldgen/libraries/library-ferret.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/worldgen/libraries/moogs-structure-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/worldgen/mes-moogs-end-structures.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/testing/worldgen/mns-moogs-nether-structures.pw.toml"
 metafile = true
 
 [[files]]
@@ -1066,19 +702,11 @@ file = "mods/tweaks/hud/structure-credits.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/map/journey/journeylocator.pw.toml"
+file = "mods/tweaks/map/journeymap.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tweaks/map/journey/journeymap.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/map/xaero/xaeros-minimap.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/map/xaero/xaeros-world-map.pw.toml"
+file = "mods/tweaks/map/mapfrontiers.pw.toml"
 metafile = true
 
 [[files]]
@@ -1311,6 +939,366 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/computer-craft/advancedperipherals.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/computer-craft/cccbridge.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/computer-craft/ccsecureboot.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/computer-craft/classicperipherals.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/computer-craft/create-cc-total-logistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/computer-craft/toms-peripherals.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-access-denied.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-additional-logistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-aeronautics.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-aquatic-ambitions.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-big-cannons.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-bits-n-bobs.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-bitterballen.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-central-kitchen.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-deco.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-deepfried.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-dragons-plus.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-dynamic-lights.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-enchantable-machinery.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-enchantment-industry.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-food.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-meta-logistics.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-more-pipe-bombs-in-packages.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-old-infrastructure.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-pattern-schematics.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-power-loader.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-trading-floor.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-train-lights.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-train-parts.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-transmission!.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-vibrant-vaults.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/create-wrapped.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/libraries/rpl.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/libraries/sable.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/create/slice-and-dice.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/aquaculture-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/arbitrary-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/barbeques-delight-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/brewin-and-chewin.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/cocktails-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/compat-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/corn-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/countries-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/crabbers-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/crate-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/cultural-delights.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/cutting-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/display-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/dumplings-delight-rewrapped.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/easters-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/egg-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/enders-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/ends-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/expanded-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/fruits-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/hearth-and-harvest.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/libraries/lodestonelib.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/libraries/mmlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/libraries/not-enough-pots.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/libraries/recipe-modification.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/miners-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/more-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/oaks-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/oceans-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/pineapple-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/pizzadelight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/potted-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/seed-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/trailtales-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/ubes-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/valheim-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/vegan-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/veggies-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/map/bluemap.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/map/bluemapfrontiers.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/map/create-bluemap.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/serene-shrubbery.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/tweaks/audio/dynamicsurroundingsfabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/tweaks/cat-loaf.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/tweaks/cerbons-better-beacons.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/tweaks/gameplay/aileron.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/tweaks/gameplay/do-a-barrel-roll.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/tweaks/libraries/cerbons-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/utilities/touys.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/worldgen/adorabuild-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/worldgen/better-village.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/worldgen/libraries/library-ferret.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/worldgen/libraries/moogs-structure-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/worldgen/mes-moogs-end-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/worldgen/mns-moogs-nether-structures.pw.toml"
 metafile = true
 
 [[files]]
