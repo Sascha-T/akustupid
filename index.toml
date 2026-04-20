@@ -118,10 +118,6 @@ file = "config/xaerominimap.txt"
 file = "config/xaeroworldmap-common.txt"
 
 [[files]]
-file = "mods/bluemapfrontiers.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/build-deco/handcrafted.pw.toml"
 metafile = true
 
@@ -610,10 +606,6 @@ file = "mods/testing/content/create/create-power-loader.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/testing/content/create/create-ratatouille.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/testing/content/create/create-trading-floor.pw.toml"
 metafile = true
 
@@ -806,6 +798,10 @@ file = "mods/testing/content/map/bluemap.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/testing/content/map/bluemapfrontiers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/testing/content/map/create-bluemap.pw.toml"
 metafile = true
 
@@ -843,6 +839,10 @@ metafile = true
 
 [[files]]
 file = "mods/testing/tweaks/libraries/cerbons-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/testing/utilities/touys.pw.toml"
 metafile = true
 
 [[files]]
