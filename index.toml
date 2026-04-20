@@ -946,6 +946,14 @@ file = "testing/content/computer-craft/advancedperipherals.pw.toml"
 metafile = true
 
 [[files]]
+file = "testing/content/computer-craft/cc-redstone-link-bridge.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/computer-craft/cc-sable.pw.toml"
+metafile = true
+
+[[files]]
 file = "testing/content/computer-craft/cccbridge.pw.toml"
 metafile = true
 
