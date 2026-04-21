@@ -106,6 +106,18 @@ file = "config/tectonic.json"
 file = "config/vivecraft-server-config.toml"
 
 [[files]]
+file = "mods/content/build-deco/dye-depot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/build-deco/dye-the-world.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/build-deco/every-compat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/content/build-deco/handcrafted.pw.toml"
 metafile = true
 
@@ -135,6 +147,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/create/copycats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/create/create-compatible-storage.pw.toml"
 metafile = true
 
 [[files]]
