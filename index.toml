@@ -294,10 +294,6 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ecliptic-seasons.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/libraries/almanac.pw.toml"
 metafile = true
 
@@ -1126,6 +1122,10 @@ file = "testing/content/create/slice-and-dice.pw.toml"
 metafile = true
 
 [[files]]
+file = "testing/content/ecliptic-seasons.pw.toml"
+metafile = true
+
+[[files]]
 file = "testing/content/every-compat/every-compat.pw.toml"
 metafile = true
 
@@ -1191,10 +1191,6 @@ metafile = true
 
 [[files]]
 file = "testing/content/farmers-delight/dumplings-delight-rewrapped.pw.toml"
-metafile = true
-
-[[files]]
-file = "testing/content/farmers-delight/easters-delight.pw.toml"
 metafile = true
 
 [[files]]
