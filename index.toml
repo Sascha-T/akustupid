@@ -114,10 +114,6 @@ file = "mods/content/build-deco/dye-the-world.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/content/build-deco/every-compat.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/content/build-deco/handcrafted.pw.toml"
 metafile = true
 
@@ -243,6 +239,10 @@ metafile = true
 
 [[files]]
 file = "mods/content/mobs/snuffles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/content/mobs/wandering-ribbit.pw.toml"
 metafile = true
 
 [[files]]
@@ -1122,6 +1122,18 @@ file = "testing/content/create/slice-and-dice.pw.toml"
 metafile = true
 
 [[files]]
+file = "testing/content/every-compat/every-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/every-compat/gems-realm.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/every-compat/stone-zone.pw.toml"
+metafile = true
+
+[[files]]
 file = "testing/content/farmers-delight/aquaculture-delight.pw.toml"
 metafile = true
 
@@ -1278,7 +1290,27 @@ file = "testing/content/farmers-delight/veggies-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "testing/content/fishing/starcatcher.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/fishing/tide-extra-compatibility.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/fishing/tide.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/mech-trowel.pw.toml"
+metafile = true
+
+[[files]]
 file = "testing/content/serene-shrubbery.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/friends-and-foes-beekeeper-hut-forge.pw.toml"
 metafile = true
 
 [[files]]
