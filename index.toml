@@ -1082,6 +1082,10 @@ file = "testing/content/create/create-power-loader.pw.toml"
 metafile = true
 
 [[files]]
+file = "testing/content/create/create-storage-neo-forge.pw.toml"
+metafile = true
+
+[[files]]
 file = "testing/content/create/create-trading-floor.pw.toml"
 metafile = true
 
@@ -1307,6 +1311,14 @@ metafile = true
 
 [[files]]
 file = "testing/content/serene-shrubbery.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/vanillabackport.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/vb-compat.pw.toml"
 metafile = true
 
 [[files]]
