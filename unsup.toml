@@ -18,11 +18,11 @@ choices = [
 
 # Iris
 [metafile.colorwheel]
-flavors = "iris_on"
+flavors = ["iris_on", "iris_shaders"]
 [metafile.colorwheel-patcher]
-flavors = "iris_on"
+flavors = ["iris_on", "iris_shaders"]
 [metafile.iris]
-flavors = "iris_on"
+flavors = ["iris_on", "iris_shaders"]
 
 # Shaders
 [metafile.bliss-shader]

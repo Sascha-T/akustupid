@@ -64,9 +64,6 @@ file = "config/fancymenu/options.txt"
 file = "config/figura.json"
 
 [[files]]
-file = "config/mimi-common.toml"
-
-[[files]]
 file = "config/minecolonies-server.toml"
 
 [[files]]
@@ -107,15 +104,6 @@ file = "config/tectonic.json"
 
 [[files]]
 file = "config/vivecraft-server-config.toml"
-
-[[files]]
-file = "config/xaerominimap-common.txt"
-
-[[files]]
-file = "config/xaerominimap.txt"
-
-[[files]]
-file = "config/xaeroworldmap-common.txt"
 
 [[files]]
 file = "mods/content/build-deco/handcrafted.pw.toml"
