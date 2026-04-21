@@ -1,0 +1,13 @@
+name = "Doppler"
+filename = "Doppler-1.2.0+1.21.1_neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2fb3B5H0/versions/JXWGPSf4/Doppler-1.2.0%2B1.21.1_neoforge.jar"
+hash-format = "sha512"
+hash = "8e900c7b8ac237969ad8c6733b91ae50ee37b418bce680204279dacffc0fbc9f1b7ed63a4b7a7ddb476ec453ac73b9561ffbeeed811168560e9d8fa5c11a84d8"
+
+[update]
+[update.modrinth]
+mod-id = "2fb3B5H0"
+version = "JXWGPSf4"

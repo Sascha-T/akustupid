@@ -510,7 +510,15 @@ file = "mods/tweaks/audio/cool-rain-reforged.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/audio/doppler.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/audio/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/audio/sound-physics-perfected.pw.toml"
 metafile = true
 
 [[files]]
@@ -578,6 +586,10 @@ file = "mods/tweaks/gameplay/polymorph.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/gameplay/rch-supplementaries-compat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/gameplay/rightclickharvest.pw.toml"
 metafile = true
 
@@ -607,10 +619,6 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/gameplay/unloaded-activity.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/tweaks/gameplay/vivecraft.pw.toml"
 metafile = true
 
 [[files]]
@@ -699,6 +707,10 @@ metafile = true
 
 [[files]]
 file = "mods/tweaks/hud/structure-credits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/map/journeymap-waypoint-syncing.pw.toml"
 metafile = true
 
 [[files]]
@@ -1070,6 +1082,10 @@ file = "testing/content/create/create-transmission!.pw.toml"
 metafile = true
 
 [[files]]
+file = "testing/content/create/create-tweaked-controllers.pw.toml"
+metafile = true
+
+[[files]]
 file = "testing/content/create/create-vibrant-vaults.pw.toml"
 metafile = true
 
@@ -1171,6 +1187,10 @@ metafile = true
 
 [[files]]
 file = "testing/content/farmers-delight/hearth-and-harvest.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/farmers-delight/kitchen-projectiles.pw.toml"
 metafile = true
 
 [[files]]
@@ -1279,6 +1299,22 @@ metafile = true
 
 [[files]]
 file = "testing/tweaks/libraries/cerbons-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/tweaks/vivecraft/vivecraft-boots-claws-disabler.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/tweaks/vivecraft/vivecraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/tweaks/vivecraft/vr-swing-sprint.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/tweaks/vivecraft/vr-throwing-extensions.pw.toml"
 metafile = true
 
 [[files]]

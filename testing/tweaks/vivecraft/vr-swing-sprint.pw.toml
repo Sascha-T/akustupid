@@ -1,0 +1,13 @@
+name = "VR Swing Sprint"
+filename = "vss-neoforge-1.21.1-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jAEjiIKx/versions/JUuutqP3/vss-neoforge-1.21.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "789a365e641e9250a7b713a285fa750fd04ccd7f5cd67cb1c6cba93bd9db66149428968261fe189f1489b037531c6208d2d331ebca6daf6daa2d84a6b5d43963"
+
+[update]
+[update.modrinth]
+mod-id = "jAEjiIKx"
+version = "JUuutqP3"
