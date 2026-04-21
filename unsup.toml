@@ -66,3 +66,5 @@ choices = ["dynamic_on", "dynamic_off"]
 
 [metafile.sodium-dynamic-lights]
 flavors = "dynamic_on"
+[metafile.create-dynamic-lights]
+flavors = "dynamic_on"
