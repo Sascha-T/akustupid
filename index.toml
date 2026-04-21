@@ -294,6 +294,10 @@ file = "mods/content/supplementaries/supplementaries.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ecliptic-seasons.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/libraries/almanac.pw.toml"
 metafile = true
 
