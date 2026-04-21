@@ -1278,18 +1278,6 @@ file = "testing/content/farmers-delight/veggies-delight.pw.toml"
 metafile = true
 
 [[files]]
-file = "testing/content/map/bluemap.pw.toml"
-metafile = true
-
-[[files]]
-file = "testing/content/map/bluemapfrontiers.pw.toml"
-metafile = true
-
-[[files]]
-file = "testing/content/map/create-bluemap.pw.toml"
-metafile = true
-
-[[files]]
 file = "testing/content/serene-shrubbery.pw.toml"
 metafile = true
 
