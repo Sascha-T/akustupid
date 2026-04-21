@@ -530,6 +530,18 @@ file = "mods/tweaks/audio/sound.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tweaks/diagonal/diagonal-fences.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/diagonal/diagonal-walls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tweaks/diagonal/diagonal-windows.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/tweaks/fixes/netherportalfix.pw.toml"
 metafile = true
 
