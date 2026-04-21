@@ -970,6 +970,18 @@ file = "shaderpacks/solas-shader.pw.toml"
 metafile = true
 
 [[files]]
+file = "testing/content/backport/libraries/platform.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/backport/vanillabackport.pw.toml"
+metafile = true
+
+[[files]]
+file = "testing/content/backport/vb-compat.pw.toml"
+metafile = true
+
+[[files]]
 file = "testing/content/computer-craft/advancedperipherals.pw.toml"
 metafile = true
 
@@ -1311,14 +1323,6 @@ metafile = true
 
 [[files]]
 file = "testing/content/serene-shrubbery.pw.toml"
-metafile = true
-
-[[files]]
-file = "testing/content/vanillabackport.pw.toml"
-metafile = true
-
-[[files]]
-file = "testing/content/vb-compat.pw.toml"
 metafile = true
 
 [[files]]
