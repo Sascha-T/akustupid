@@ -1130,10 +1130,6 @@ file = "testing/content/create/slice-and-dice.pw.toml"
 metafile = true
 
 [[files]]
-file = "testing/content/ecliptic-seasons.pw.toml"
-metafile = true
-
-[[files]]
 file = "testing/content/every-compat/every-compat.pw.toml"
 metafile = true
 
