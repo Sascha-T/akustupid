@@ -1014,10 +1014,6 @@ file = "testing/content/computer-craft/toms-peripherals.pw.toml"
 metafile = true
 
 [[files]]
-file = "testing/content/create/create-access-denied.pw.toml"
-metafile = true
-
-[[files]]
 file = "testing/content/create/create-additional-logistics.pw.toml"
 metafile = true
 
