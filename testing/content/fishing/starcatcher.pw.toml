@@ -1,13 +1,13 @@
 name = "Starcatcher"
-filename = "starcatcher-2.3.3-NEOFORGE-1.21.1.jar"
+filename = "starcatcher-2.3.4-NEOFORGE-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/h2jXvxNR/versions/afaS1mLw/starcatcher-2.3.3-NEOFORGE-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/h2jXvxNR/versions/Z563rMV6/starcatcher-2.3.4-NEOFORGE-1.21.1.jar"
 hash-format = "sha512"
-hash = "95c2252ff1016c472ce5d3f191440e196b8b4e1b431804039ac4242f518f66d94182a01955ec66db41c579ee1542ad196c84dfc676aee224ce0ee79d040fe2b5"
+hash = "c0d16795f68944cac548ba2ef93d9832dcfc740538cd5295ee0bc7b4ef76bacef71b20f7a36b736dc4d6916dd50a478c95ee508bfad2557aa8155b4ce3af1866"
 
 [update]
 [update.modrinth]
 mod-id = "h2jXvxNR"
-version = "afaS1mLw"
+version = "Z563rMV6"
