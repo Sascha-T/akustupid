@@ -1138,6 +1138,10 @@ file = "testing/content/create/libraries/sable.pw.toml"
 metafile = true
 
 [[files]]
+file = "testing/content/create/power-grid.pw.toml"
+metafile = true
+
+[[files]]
 file = "testing/content/create/slice-and-dice.pw.toml"
 metafile = true
 
