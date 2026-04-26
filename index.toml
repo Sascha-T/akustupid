@@ -67,7 +67,7 @@ file = "config/figura.json"
 file = "config/minecolonies-server.toml"
 
 [[files]]
-file = "config/paxi/datapacks/fsmp-datapack.pw.toml"
+file = "config/paxi/datapacks/hrt-datapack.pw.toml"
 metafile = true
 
 [[files]]
@@ -79,7 +79,7 @@ file = "config/paxi/resourcepacks/creeper-overhaul-overhaul.pw.toml"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/fsmp-resourcepack.pw.toml"
+file = "config/paxi/resourcepacks/hrt-resourcepack.pw.toml"
 metafile = true
 
 [[files]]
@@ -862,7 +862,7 @@ file = "mods/utilities/chunky.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/utilities/fsmp-bridge.pw.toml"
+file = "mods/utilities/hrt-bridge.pw.toml"
 metafile = true
 
 [[files]]

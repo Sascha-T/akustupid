@@ -1,0 +1,15 @@
+name = "hrt-resourcepack"
+filename = "hrtzone-resourcepack-0.5.7.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Atakku/hrt-datares/releases/download/mc1.21.1/v0.5.7/hrtzone-resourcepack-0.5.7.zip"
+hash-format = "sha256"
+hash = "37e05ef6eb916e17729acc9b2edca1595624a81c40bee147af54b49776200e8c"
+
+[update]
+[update.github]
+branch = "1.21.1"
+regex = "hrtzone-resourcepack-.*\\.zip$"
+slug = "atakku/hrt-datares"
+tag = "mc1.21.1/v0.5.7"

@@ -13,7 +13,7 @@ layout-meta {
 }
 
 menu_background {
-  color = #222034FF
+  color = #1d293dFF
   instance_identifier = db187ffe-f117-4808-84b3-5e77935016a1-1759324293653
   background_type = drippy_color_background
 }
@@ -80,7 +80,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 887ec0be-21c5-4dff-a047-dc35ec040f12-1759178649715
-  [executable_action_instance:e761a8b3-1d1f-4cd3-92d9-fc388d65a54c-1759179668757][action_type:joinserver] = play.carp.gg
+  [executable_action_instance:e761a8b3-1d1f-4cd3-92d9-fc388d65a54c-1759179668757][action_type:joinserver] = play.hrt.zone
   [executable_block:887ec0be-21c5-4dff-a047-dc35ec040f12-1759178649715][type:generic] = [executables:e761a8b3-1d1f-4cd3-92d9-fc388d65a54c-1759179668757;]
   restartbackgroundanimations = true
   nine_slice_custom_background = false
