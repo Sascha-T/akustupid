@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://github.com/Atakku/hrt-datares/releases/download/mc1.21.1/v0.5.7/hrtzone-datapack-0.5.7.zip"
 hash-format = "sha256"
-hash = "d6852f68da0feeede0dac163db00e5adacc9efc631bc8294acf51cd49e9bd067"
+hash = "3e4ca3eed8210e081fc5b7be3d276a4eb79c8cdfffaca9fc8f9ecedeafa893e0"
 
 [update]
 [update.github]
